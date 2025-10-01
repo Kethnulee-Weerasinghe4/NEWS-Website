@@ -2,8 +2,6 @@
 
 A simple React application that lets users search, browse, and view recipes with a premium interface. Built with Tailwind CSS and Framer Motion, it features elegant typography, luxury-inspired color palettes, smooth animations, and dynamic API integration.
 
-**Live Website:** [https://nna-news-app.netlify.app/](https://nna-news-app.netlify.app/)
-
 ![Website Preview](./preview.png)
 
 ## Overview
