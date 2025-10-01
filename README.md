@@ -8,18 +8,20 @@ A simple React application that lets users search, browse, and view recipes with
 
 ## Overview
 
-This project is a Porsche-themed website clone augmented with an AI chatbot. It’s meant to serve as a portfolio or demo site where users can interact with a “virtual Porsche assistant” that can answer queries, guide users, and simulate conversational interactions.
+NEWS-App is a dynamic web application designed to provide users with up-to-date news articles from various sources. It offers features like browsing trending news, searching for specific topics, and viewing detailed articles. The app focuses on delivering a clean, intuitive, and responsive user interface to ensure a smooth and engaging experience across different devices. With real-time data fetching, users always have access to the latest information in an easy-to-navigate format.
 
-- AI-powered chatbot interface  
-- Automates responses to commonly asked queries  
-- Porsche styling / brand aesthetic  
-- Seamless user experience with frontend & chat overlay 
+- Search news articles by keyword  
+- Browse latest / trending news  
+- View detailed article pages  
+- Smooth transitions & animations via Framer Motion
+- Responsive & clean UI 
+- API integration for fetching news data 
 
 ## Technologies
 
-- CSS
 - JavaScript
 - React
+- Tailwind CSS
 - API
 
 ## Running Locally
