@@ -2,6 +2,15 @@
 
 A simple React application that lets users search, browse, and view recipes with a premium interface. Built with Tailwind CSS and Framer Motion, it features elegant typography, luxury-inspired color palettes, smooth animations, and dynamic API integration.
 
+## Running Locally
+
+To view or edit the project locally:
+
+```bash
+git clone https://github.com/Kethnulee-Weerasinghe/NEWS-App.git
+cd News-App
+```
+
 ![Website Preview](./preview.png)
 
 ## Overview
@@ -22,10 +31,4 @@ NEWS-App is a dynamic web application designed to provide users with up-to-date 
 - Tailwind CSS
 - API
 
-## Running Locally
 
-To view or edit the project locally:
-
-```bash
-git clone https://github.com/Kethnulee-Weerasinghe/NEWS-App.git
-cd News-App
