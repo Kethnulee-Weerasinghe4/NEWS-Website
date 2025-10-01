@@ -2,7 +2,7 @@
 
 NEWS-App is a dynamic platform delivering up-to-date news from diverse sources. It allows users to browse trending topics, search for articles, and read in-depth content through a clean, responsive interface ensuring a seamless, engaging experience with real-time updates across all modern devices.
 
-## Running Locally
+## View Project
 
 To view or edit the project locally:
 
