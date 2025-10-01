@@ -1,6 +1,6 @@
 # NEWS-App
 
-A simple React application that lets users search, browse, and view recipes with a premium interface. Built with Tailwind CSS and Framer Motion, it features elegant typography, luxury-inspired color palettes, smooth animations, and dynamic API integration.
+NEWS-App is a dynamic platform delivering up-to-date news from diverse sources. It allows users to browse trending topics, search for articles, and read in-depth content through a clean, responsive interface ensuring a seamless, engaging experience with real-time updates across all modern devices.
 
 ## Running Locally
 
@@ -15,7 +15,7 @@ cd News-App
 
 ## Overview
 
-NEWS-App is a dynamic web application designed to provide users with up-to-date news articles from various sources. It offers features like browsing trending news, searching for specific topics, and viewing detailed articles. The app focuses on delivering a clean, intuitive, and responsive user interface to ensure a smooth and engaging experience across different devices. With real-time data fetching, users always have access to the latest information in an easy-to-navigate format.
+NEWS-App is a responsive web application designed to provide users with the latest news from a variety of sources in real time. The platform enables users to explore trending stories, search for specific topics, and read detailed articles through an intuitive and user-friendly interface. Emphasizing a smooth user experience across all devices, the application combines clean design with efficient functionality to ensure seamless navigation and timely access to information. The project demonstrates a strong focus on usability, performance, and a modern approach to digital news consumption.
 
 - Search news articles by keyword  
 - Browse latest / trending news  
