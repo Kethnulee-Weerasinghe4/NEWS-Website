@@ -2,6 +2,7 @@
 
 A simple React application that lets users search, browse, and view recipes with a premium interface. Built with Tailwind CSS and Framer Motion, it features elegant typography, luxury-inspired color palettes, smooth animations, and dynamic API integration.
 
+
 ![Website Preview](./preview.png)
 
 ## Overview
