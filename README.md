@@ -4,7 +4,7 @@ A responsive frontend news application built with React, Tailwind CSS, and Frame
 
 ## View Project
 
-To run this project on a local machine:
+To view or edit this project:
 
 ```bash
 git clone https://github.com/Kethnulee-Weerasinghe/NEWS-App.git
