@@ -1,5 +1,6 @@
 # NEWS-App
 
+A responsive frontend news application built with React, Tailwind CSS, and Framer Motion. It features real-time content integration via APIs, delivering a clean, intuitive UI. With smooth animations. The project showcases strong front-end expertise in crafting dynamic, performant, and visually engaging user experiences across all devices.
 
 ## View Project
 
