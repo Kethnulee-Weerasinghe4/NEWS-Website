@@ -10,6 +10,13 @@ To view or edit the project:
 git clone https://github.com/Kethnulee-Weerasinghe/NEWS-App.git
 cd News-App
 ```
+## Installation
+
+```bash
+cd NEWS-App
+npm install
+npm run dev
+```
 
 ![Website Preview](./preview.png)
 
