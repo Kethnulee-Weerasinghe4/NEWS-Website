@@ -24,12 +24,11 @@ npm run dev
 
 A React application that lets users search, browse, and view news articles.
 
-- Search news articles by keyword  
-- Browse latest / trending news  
-- View detailed article pages  
+- API integration for fetching news data
+- Browse latest / trending news
+- Search news articles by keyword
 - Smooth transitions & animations via Framer Motion
-- Responsive & clean UI 
-- API integration for fetching news data 
+- View detailed article pages  
 
 ## Technologies
 
@@ -37,4 +36,3 @@ A React application that lets users search, browse, and view news articles.
 - React
 - Tailwind CSS
 - API
-  
