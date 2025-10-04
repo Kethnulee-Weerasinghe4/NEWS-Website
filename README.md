@@ -22,6 +22,8 @@ npm run dev
 
 ## Overview
 
+A React application that lets users search, browse, and view news articles.
+
 - Search news articles by keyword  
 - Browse latest / trending news  
 - View detailed article pages  
