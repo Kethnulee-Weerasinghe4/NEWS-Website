@@ -37,7 +37,6 @@ const Footer = () => {
             <li>China</li>
             <li>Europe</li>
             <li>India</li>
-            <li>Middle East</li>
             <li>United Kingdom</li>
             <li>Nigeria</li>
           </ul>
@@ -131,5 +130,6 @@ const Footer = () => {
 };
 
 export default Footer;
+
 
 
