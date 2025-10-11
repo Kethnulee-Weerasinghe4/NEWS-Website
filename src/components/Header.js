@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <header className="header">
       <div className="brand-container">
-        <div className="brand">NNA<div className="slogan">NEWS Network App</div></div>
+        <div className="brand">NNA<div className="slogan">NEWS Network Web</div></div>
       </div>
       <nav className="nav">
         <ul>
@@ -24,3 +24,4 @@ const Header = () => {
 };
 
 export default Header;
+
