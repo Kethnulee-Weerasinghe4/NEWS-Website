@@ -1,28 +1,24 @@
-# NEWS Application
+# NEWS Website
 
-A news application built with React, Tailwind CSS, and Framer Motion. It integrates real-time content via APIs, delivering a clean, intuitive, and dynamic user interface with smooth animations. This project highlights strong front-end expertise in crafting performant and visually engaging web experiences.
+A news website built with React, Tailwind CSS, and Framer Motion. It integrates real-time content via APIs, delivering a clean, intuitive, and dynamic user interface with smooth animations. This project highlights strong front-end expertise in crafting performant and visually engaging web experiences.
 
 ## View Project
 
 To view or edit the project:
 
 ```bash
-git clone https://github.com/Kethnulee-Weerasinghe4/NEWS-Application.git
-cd News-Application
+git clone https://github.com/Kethnulee-Weerasinghe4/NEWS-Website.git
+cd News-Website
 ```
 ## Installation
 
 ```bash
-cd NEWS-Application
+cd NEWS-Website
 npm install
 npm run dev
 ```
 
 ![Website Preview](./preview.png)
-
-## Overview
-
-A React application that lets users search, browse, and view news articles.
 
 ## Features
 
