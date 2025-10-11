@@ -7,7 +7,7 @@ A news application built with React, Tailwind CSS, and Framer Motion. It integra
 To view or edit the project:
 
 ```bash
-git clone https://github.com/Kethnulee-Weerasinghe/NEWS-Application.git
+git clone https://github.com/Kethnulee-Weerasinghe4/NEWS-Application.git
 cd News-Application
 ```
 ## Installation
