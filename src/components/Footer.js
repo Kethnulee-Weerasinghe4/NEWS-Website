@@ -111,7 +111,7 @@ const Footer = () => {
       {/* Legal Section */}
       <div className="footer-bottom">
         <h4>
-          © 2025 News Network App - All Rights Reserved
+          © 2025 News Network Web - All Rights Reserved
         </h4>
       </div>
 
@@ -131,3 +131,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
