@@ -18,7 +18,7 @@ const Footer = () => {
       <form className="footer-search" onSubmit={handleSubmit}>
         <input
           type="text"
-          placeholder="Search NNA..."
+          placeholder="Search NNW..."
           value={query}s
           onChange={(e) => setQuery(e.target.value)}
         />
@@ -131,4 +131,5 @@ const Footer = () => {
 };
 
 export default Footer;
+
 
