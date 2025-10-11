@@ -1,6 +1,6 @@
 # NEWS Website
 
-A news website built with React, Tailwind CSS, and Framer Motion. It integrates real-time content via APIs, delivering a clean, intuitive, and dynamic user interface with smooth animations. This project highlights strong front-end expertise in crafting performant and visually engaging web experiences.
+A news website built with React, Tailwind CSS, and Framer Motion. It integrates real-time content via APIs, delivering a clean, intuitive, and dynamic user interface with smooth animations. This project highlights strong frontend expertise in crafting performant and visually engaging web experiences.
 
 ## View Project
 
