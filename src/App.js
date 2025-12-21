@@ -5,7 +5,7 @@ import NewsList from './components/NewsList';
 import Sidebar from './components/Sidebar';
 import './App.css';
 
-const API_KEY = '43622b89c6a04779a9062ea36eb64388';
+const API_KEY = process.env.REACT_APP_NEWS_API_KEY;
 
 const App = () => {
   const [articles, setArticles] = useState([]);
