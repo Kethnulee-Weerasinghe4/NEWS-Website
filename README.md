@@ -1,6 +1,6 @@
 # NEWS Website
 
-A real-time news web application built to deliver up-to-date headlines through a clean, responsive user interface.
+A real-time news web application built to deliver up-to-date headlines through a clean, user interface.
 
 ![Website Preview](./preview.png)
 
@@ -13,7 +13,6 @@ NEWS-Website is a frontend-focused web application developed using HTML, CSS, Ja
 - Real-time news fetching using external APIs  
 - Search functionality for specific news topics  
 - Categorized and trending headlines  
-- Responsive layout with sidebar highlights  
 - Modular React component structure
 
 ## Tech Stack
