@@ -11,7 +11,6 @@ NEWS-Website is a frontend-focused web application developed using HTML, CSS, Ja
 ## Key Features
 
 - Real-time news fetching using external APIs  
-- Search functionality for specific news topics  
 - Categorized and trending headlines  
 - Modular React component structure
 
