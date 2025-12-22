@@ -1,4 +1,3 @@
-/* Keep body within screen */
 .container {
   display: grid;
   grid-template-columns: 3fr 1fr;
@@ -9,7 +8,6 @@
   box-sizing: border-box;
 }
 
-/* Main news area */
 .main-content {
   display: block;
 }
