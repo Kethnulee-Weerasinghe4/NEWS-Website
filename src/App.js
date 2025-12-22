@@ -9,18 +9,17 @@ const API_KEY = process.env.REACT_APP_NEWS_API_KEY;
 
 const App = () => {
   const [articles, setArticles] = useState([]);
-  const [category, setCategory] = useState('general');
+  const [category] = useState('general'); 
   const [query, setQuery] = useState('');
 
   useEffect(() => {
     const fetchNews = async () => {
       try {
         let url = '';
+
         if (query) {
-          // Search endpoint
           url = `https://newsapi.org/v2/everything?q=${query}&language=en&sortBy=publishedAt&apiKey=${API_KEY}`;
         } else {
-          // Category headlines
           url = `https://newsapi.org/v2/top-headlines?country=us&category=${category}&apiKey=${API_KEY}`;
         }
 
@@ -39,12 +38,12 @@ const App = () => {
     return <p style={{ textAlign: 'center' }}>Loading news...</p>;
   }
 
-  const [topStory, ...rest] = articles;
+  const [, ...rest] = articles; 
 
   return (
     <div className="app">
       <Header onSearch={setQuery} />
-      
+
       <div className="container">
         <div className="main-content">
           <NewsList articles={rest} />
