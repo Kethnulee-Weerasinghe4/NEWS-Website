@@ -24,6 +24,6 @@ NEWS-Website is a frontend-focused web application developed using HTML, CSS, Ja
 ### Installation
 
 ```bash
-git clone (https://github.com/Kethnulee-Weerasinghe4/NEWS-Website)
+git clone https://github.com/Kethnulee-Weerasinghe4/NEWS-Website
 cd NEWS-Website
 npm install
