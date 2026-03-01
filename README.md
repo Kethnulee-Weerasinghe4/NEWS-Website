@@ -16,7 +16,7 @@ NEWS-Website is a frontend-focused React web application. It consumes external n
 
 ## Tech Stack
 
-- **Frontend:** React, HTML, CSS, JavaScript  
+- **Frontend:** React (HTML, CSS, JavaScript)  
 - **API:** NewsAPI  
 
 ## Getting Started
