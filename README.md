@@ -6,7 +6,7 @@ A real-time news web application built to deliver up-to-date headlines through a
 
 ## Overview
 
-NEWS-Website is a frontend-focused web application developed using HTML, CSS, JavaScript, and React. It consumes external news APIs to display real-time headlines, and organizes content for easy consumption. The project emphasizes API integration, component-based architecture, and practical React fundamentals.
+NEWS-Website is a frontend-focused React web application. It consumes external news APIs to display real-time headlines, and organizes content for easy consumption. The project emphasizes API integration, component-based architecture, and practical React fundamentals.
 
 ## Key Features
 
@@ -16,7 +16,7 @@ NEWS-Website is a frontend-focused web application developed using HTML, CSS, Ja
 
 ## Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, React  
+- **Frontend:** React, HTML, CSS, JavaScript  
 - **API:** NewsAPI  
 
 ## Getting Started
